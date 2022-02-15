@@ -1,0 +1,24 @@
+#nuestroequipo h3, h4 {
+    text-align: center;
+}
+
+
+
+#nuestroequipo .contenedor{
+    display: flex;
+    justify-content: center;
+  flex-wrap: wrap;
+
+}
+
+#nuestroequipo article{
+  margin: 15px;
+
+}
+
+#nuestroequipo img{
+ width: 100% 0;
+ max-width: 280px;
+
+}
+
